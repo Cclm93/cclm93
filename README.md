@@ -3,14 +3,16 @@
 
 ### Hi there 👋
 
-I'm a new developer developer focused on Front-End technologies, but i'm open to discover and improve new skills in different areas.
+Eu sou um desenvolvedor iniciante focado em tecnologias ligadas a Front-End, porém aberto a descobrir e aperfeiçoar minhas habilidades em diferentes áreas./
+I'm a new developer focused on Front-End technologies, but i'm open to discover and improve new skills in different areas.
+
 ##
-- 🔭 I’m currently working on Front-End projects
-- 🌱 I’m currently learning Vue.js
+- 🔭 Atualmente  envolvido em projetos Front-End /  I’m currently working on Front-End projects)
+- 🌱 Aprendendo atualmente o Framework Vue.js / I’m currently learning Vue.js framework.
 
 ##
 
-### Languages, Frameworks and tools
+###  Linguagens de programação, Frameworks e ferramentas / Languages, Frameworks and tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
