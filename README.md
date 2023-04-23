@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cclm93)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 I'm a new developer developer focused on Front-End technologies, but i'm open to discover and improve new skills in different areas.
 
 - 🔭 I’m currently working on Front-End projects
