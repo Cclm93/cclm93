@@ -34,6 +34,5 @@ Olá, me chamo Caio. Sou um desenvolvedor iniciante focado em tecnologias ligada
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cclm93&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
   
-  ![Snake animation](https://github.com/{{cclm93}}/{{cclm93}}/blob/output/github-contribution-grid-snake.svg)
-  
+ 
 </div>
