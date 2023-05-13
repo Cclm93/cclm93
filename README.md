@@ -7,8 +7,8 @@ Olá, me chamo Caio. Sou um desenvolvedor iniciante focado em tecnologias ligada
 (Hello, I'm Caio and I'm a new developer focused on Front-End technologies, but i'm open to discover and improve new skills in different areas.)
 
 ##
-- 🔭 Atualmente  envolvido em projetos Front-End (I’m currently working on Front-End projects).
-- 🌱 Aprendendo atualmente o Framework Vue.js. (I’m currently learning Vue.js framework).
+- 🔭 Atualmente  envolvido em projetos Full Stack (I’m currently working on Full Stack projects).
+- 🌱 Aprendendo atualmente Java  (I’m currently learning Java).
 
 ##
 
@@ -17,6 +17,7 @@ Olá, me chamo Caio. Sou um desenvolvedor iniciante focado em tecnologias ligada
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Caio-java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Caio-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Caio-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -33,7 +34,7 @@ Olá, me chamo Caio. Sou um desenvolvedor iniciante focado em tecnologias ligada
   ##
   ###  Github Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cclm93&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cclm93&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cclm93&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
  
   
  
