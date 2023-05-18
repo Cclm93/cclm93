@@ -8,20 +8,26 @@ Olá, me chamo Caio. Sou um desenvolvedor iniciante focado em tecnologias ligada
 
 ##
 - 🔭 Atualmente  envolvido em projetos Full Stack (I’m currently working on Full Stack projects).
-- 🌱 Aprendendo atualmente Java  (I’m currently learning Java).
+- 🌱 Aprendendo atualmente Java, Angular e TypeScript  (I’m currently learning Java,  Angular and TypeScript).
 
 ##
 
 ###  Linguagens de programação, Frameworks e ferramentas (Languages, Frameworks and tools)
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Caio-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Caio-java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Caio-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Caio-Go" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  <img align="center" alt="Caio-C" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  
+  <img align="center" alt="Caio-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Caio-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Caio-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-          
+  <img align="center" alt="Caio-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+ 
+  <img align="center" alt="Caio-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Caio-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 </div>
 <br>
 
