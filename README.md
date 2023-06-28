@@ -46,3 +46,12 @@ Olá, me chamo Caio. Sou um desenvolvedor iniciante focado em tecnologias ligada
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cclm93&theme=tokyo-night&radius=10&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph) 
  
 </div>
+
+##
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
+
+
