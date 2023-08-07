@@ -44,6 +44,11 @@ Olá, me chamo Caio. Sou um desenvolvedor iniciante focado em tecnologias ligada
   <img align="center" alt="Caio-gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />    
   <img align="center" alt="Caio-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img  align="center" alt="Caio-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  
+  <img align="center" alt="Caio-jasmine" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" />
+  <img align="center" alt="Caio-karma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" />
+          
+          
 
   <img  align="center" alt="Caio-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Caio-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
